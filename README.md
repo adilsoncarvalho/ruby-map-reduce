@@ -6,7 +6,7 @@ Some examples and notes about writing map reduces in ruby to run under Hadoop.
 Examples
 --------
 
-* [Counting Words](https://github.com/adilsoncarvalho/ruby-map-reduce/counting-words) (got from [Big Fast Blog][0])
+* [Counting Words](https://github.com/adilsoncarvalho/ruby-map-reduce/tree/master/counting-words) (got from [Big Fast Blog][0])
 
 Things I've learned
 -------------------
