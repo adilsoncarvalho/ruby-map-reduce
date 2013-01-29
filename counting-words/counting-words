@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat /usr/share/dict/words | ruby map.rb | sort | ruby reduce.rb
